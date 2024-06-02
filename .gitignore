@@ -1,0 +1,9 @@
+.idea
+.env
+discussion/cqldata
+discussion/.env
+discussion/Dockerfile
+publisher/schema
+publisher/.env
+publisher/Dockerfile
+docker-compose.yml

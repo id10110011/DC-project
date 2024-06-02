@@ -1,0 +1,5 @@
+port: 24130
+
+cassandra:
+  host: "localhost"
+  port: "9042"
